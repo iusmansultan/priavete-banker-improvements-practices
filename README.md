@@ -43,10 +43,6 @@ const response = await fetch("http://localhost:8000/auth/login", {...});
 // RECOMMENDED
 const response = await fetch(`${process.env.REACT_APP_API_URL}/auth/login`, {...});
 ```
-
-### 1.2 Suspicious Code in tailwind.config.js
-The `tailwind.config.js` file contains obfuscated JavaScript code at the end. This should be investigated and removed immediately as it could be malicious.
-
 ---
 
 ## 2. Backend Improvements
