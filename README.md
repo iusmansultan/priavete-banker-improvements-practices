@@ -745,39 +745,39 @@ export default App;
 
 ## 9. Implementation Priority
 
-### Phase 1: Critical Fixes (Immediate)
+### Phase 1: Critical Fixes 
 | Priority | Task | Effort |
 |----------|------|--------|
-| 🔴 | Fix JWT_SECRET hardcoded string | 5 min |
-| 🔴 | Investigate suspicious code in tailwind.config.js | 30 min |
-| 🔴 | Add proper HTTP status codes | 2 hours |
-| 🔴 | Fix verifyToken middleware error handling | 30 min |
+| 🔴 | Fix JWT_SECRET hardcoded string | |
+| 🔴 | Investigate suspicious code in tailwind.config.js |  |
+| 🔴 | Add proper HTTP status codes |  |
+| 🔴 | Fix verifyToken middleware error handling |  |
 
-### Phase 2: Security & Stability (Week 1)
+### Phase 2: Security & Stability
 | Priority | Task | Effort |
 |----------|------|--------|
-| 🟠 | Add global error handler | 1 hour |
-| 🟠 | Add input validation | 2 hours |
-| 🟠 | Add rate limiting | 1 hour |
-| 🟠 | Create environment config | 1 hour |
-| 🟠 | Create centralized API service | 2 hours |
+| 🟠 | Add global error handler |  |
+| 🟠 | Add input validation |  |
+| 🟠 | Add rate limiting |  |
+| 🟠 | Create environment config |  |
+| 🟠 | Create centralized API service |  |
 
-### Phase 3: UX Improvements (Week 2)
+### Phase 3: UX Improvements 
 | Priority | Task | Effort |
 |----------|------|--------|
-| 🟡 | Add toast notifications | 2 hours |
-| 🟡 | Add loading states | 3 hours |
-| 🟡 | Implement form validation with react-hook-form | 4 hours |
-| 🟡 | Create reusable UI components | 4 hours |
+| 🟡 | Add toast notifications |  |
+| 🟡 | Add loading states |  |
+| 🟡 | Implement form validation with react-hook-form |  |
+| 🟡 | Create reusable UI components |  |
 
-### Phase 4: Major Redesign (Week 3-4)
+### Phase 4: Major Redesign 
 | Priority | Task | Effort |
 |----------|------|--------|
-| 🟢 | Create dedicated Login/Register pages | 8 hours |
-| 🟢 | Build Dashboard page | 16 hours |
-| 🟢 | Implement shadcn/ui components | 8 hours |
-| 🟢 | Add charts with Recharts | 4 hours |
-| 🟢 | Responsive design improvements | 8 hours |
+| 🟢 | Create dedicated Login/Register pages | |
+| 🟢 | Build Dashboard page |  |
+| 🟢 | Implement shadcn/ui components |  |
+| 🟢 | Add charts with Recharts |  |
+| 🟢 | Responsive design improvements |  |
 
 ---
 
